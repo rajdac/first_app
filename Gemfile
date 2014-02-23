@@ -7,7 +7,7 @@ gem 'rails', '4.0.3'
 # gem 'sqlite3'
 # gem 'sqlite3', '1.3.8'
 group :development, :staging,:test do
- # gem 'sqlite3', '1.3.8'
+  gem 'sqlite3', '1.3.8'
 end
 
 
